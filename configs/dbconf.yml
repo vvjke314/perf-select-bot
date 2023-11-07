@@ -1,0 +1,3 @@
+development:
+  driver: postgres
+  open: host=localhost user=admin dbname=perfumeslctdb sslmode=disable password=pass
