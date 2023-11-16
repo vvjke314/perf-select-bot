@@ -1,0 +1,2 @@
+TOKEN: 6746723557:AAGkGi1l4QQohrlC9CXWFZL3nTCo7yye0Rc
+DB_CONNECT: postgres://admin:pass@localhost:5432/perfumeslctdb
